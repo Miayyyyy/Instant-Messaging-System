@@ -1,0 +1,245 @@
+2023-03-09 14:48:06 -HV000001: Hibernate Validator 6.2.5.Final
+2023-03-09 14:48:06 -Starting ServiceApplication using Java 17.0.2 on YLMBP.local with PID 73534 (/Users/ly/IdeaProjects/im-system/im-service/target/classes started by ly in /Users/ly/IdeaProjects/im-system)
+2023-03-09 14:48:06 -The following 1 profile is active: "dev"
+2023-03-09 14:48:07 -Tomcat initialized with port(s): 8000 (http)
+2023-03-09 14:48:07 -Initializing ProtocolHandler ["http-nio-8000"]
+2023-03-09 14:48:07 -Starting service [Tomcat]
+2023-03-09 14:48:07 -Starting Servlet engine: [Apache Tomcat/9.0.71]
+2023-03-09 14:48:07 -Initializing Spring embedded WebApplicationContext
+2023-03-09 14:48:07 -Root WebApplicationContext: initialization completed in 575 ms
+2023-03-09 14:48:07 -Starting ProtocolHandler ["http-nio-8000"]
+2023-03-09 14:48:07 -Tomcat started on port(s): 8000 (http) with context path ''
+2023-03-09 14:48:07 -Started ServiceApplication in 1.168 seconds (JVM running for 1.529)
+2023-03-09 14:50:14 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-03-09 14:50:14 -Initializing Servlet 'dispatcherServlet'
+2023-03-09 14:50:14 -Completed initialization in 1 ms
+2023-03-09 14:52:47 -HV000001: Hibernate Validator 6.2.5.Final
+2023-03-09 14:52:47 -Starting ServiceApplication using Java 17.0.2 on YLMBP.local with PID 74726 (/Users/ly/IdeaProjects/im-system/im-service/target/classes started by ly in /Users/ly/IdeaProjects/im-system)
+2023-03-09 14:52:47 -The following 1 profile is active: "dev"
+2023-03-09 14:52:47 -Tomcat initialized with port(s): 8000 (http)
+2023-03-09 14:52:47 -Initializing ProtocolHandler ["http-nio-8000"]
+2023-03-09 14:52:47 -Starting service [Tomcat]
+2023-03-09 14:52:47 -Starting Servlet engine: [Apache Tomcat/9.0.71]
+2023-03-09 14:52:47 -Initializing Spring embedded WebApplicationContext
+2023-03-09 14:52:47 -Root WebApplicationContext: initialization completed in 595 ms
+2023-03-09 14:52:48 -Starting ProtocolHandler ["http-nio-8000"]
+2023-03-09 14:52:48 -Tomcat started on port(s): 8000 (http) with context path ''
+2023-03-09 14:52:48 -Started ServiceApplication in 1.171 seconds (JVM running for 1.558)
+2023-03-09 14:53:07 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-03-09 14:53:07 -Initializing Servlet 'dispatcherServlet'
+2023-03-09 14:53:07 -Completed initialization in 0 ms
+2023-03-09 14:57:46 -HV000001: Hibernate Validator 6.2.5.Final
+2023-03-09 14:57:46 -Starting ServiceApplication using Java 17.0.2 on YLMBP.local with PID 75984 (/Users/ly/IdeaProjects/im-system/im-service/target/classes started by ly in /Users/ly/IdeaProjects/im-system)
+2023-03-09 14:57:46 -The following 1 profile is active: "dev"
+2023-03-09 14:57:46 -Tomcat initialized with port(s): 8000 (http)
+2023-03-09 14:57:46 -Initializing ProtocolHandler ["http-nio-8000"]
+2023-03-09 14:57:46 -Starting service [Tomcat]
+2023-03-09 14:57:46 -Starting Servlet engine: [Apache Tomcat/9.0.71]
+2023-03-09 14:57:46 -Initializing Spring embedded WebApplicationContext
+2023-03-09 14:57:46 -Root WebApplicationContext: initialization completed in 580 ms
+2023-03-09 14:57:46 -Starting ProtocolHandler ["http-nio-8000"]
+2023-03-09 14:57:46 -Tomcat started on port(s): 8000 (http) with context path ''
+2023-03-09 14:57:46 -Started ServiceApplication in 1.17 seconds (JVM running for 1.6)
+2023-03-09 14:58:09 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-03-09 14:58:09 -Initializing Servlet 'dispatcherServlet'
+2023-03-09 14:58:09 -Completed initialization in 0 ms
+2023-03-09 15:00:54 -HV000001: Hibernate Validator 6.2.5.Final
+2023-03-09 15:00:54 -Starting ServiceApplication using Java 17.0.2 on YLMBP.local with PID 76774 (/Users/ly/IdeaProjects/im-system/im-service/target/classes started by ly in /Users/ly/IdeaProjects/im-system)
+2023-03-09 15:00:54 -The following 1 profile is active: "dev"
+2023-03-09 15:00:55 -Tomcat initialized with port(s): 8000 (http)
+2023-03-09 15:00:55 -Initializing ProtocolHandler ["http-nio-8000"]
+2023-03-09 15:00:55 -Starting service [Tomcat]
+2023-03-09 15:00:55 -Starting Servlet engine: [Apache Tomcat/9.0.71]
+2023-03-09 15:00:55 -Initializing Spring embedded WebApplicationContext
+2023-03-09 15:00:55 -Root WebApplicationContext: initialization completed in 540 ms
+2023-03-09 15:00:55 -Starting ProtocolHandler ["http-nio-8000"]
+2023-03-09 15:00:55 -Tomcat started on port(s): 8000 (http) with context path ''
+2023-03-09 15:00:55 -Started ServiceApplication in 1.098 seconds (JVM running for 1.451)
+2023-03-09 15:01:02 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-03-09 15:01:02 -Initializing Servlet 'dispatcherServlet'
+2023-03-09 15:01:02 -Completed initialization in 1 ms
+2023-03-09 15:01:42 -HV000001: Hibernate Validator 6.2.5.Final
+2023-03-09 15:01:42 -Starting ServiceApplication using Java 17.0.2 on YLMBP.local with PID 76977 (/Users/ly/IdeaProjects/im-system/im-service/target/classes started by ly in /Users/ly/IdeaProjects/im-system)
+2023-03-09 15:01:42 -The following 1 profile is active: "dev"
+2023-03-09 15:01:43 -Tomcat initialized with port(s): 8000 (http)
+2023-03-09 15:01:43 -Initializing ProtocolHandler ["http-nio-8000"]
+2023-03-09 15:01:43 -Starting service [Tomcat]
+2023-03-09 15:01:43 -Starting Servlet engine: [Apache Tomcat/9.0.71]
+2023-03-09 15:01:43 -Initializing Spring embedded WebApplicationContext
+2023-03-09 15:01:43 -Root WebApplicationContext: initialization completed in 593 ms
+2023-03-09 15:01:43 -Starting ProtocolHandler ["http-nio-8000"]
+2023-03-09 15:01:43 -Tomcat started on port(s): 8000 (http) with context path ''
+2023-03-09 15:01:43 -Started ServiceApplication in 1.206 seconds (JVM running for 1.439)
+2023-03-09 15:01:46 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-03-09 15:01:46 -Initializing Servlet 'dispatcherServlet'
+2023-03-09 15:01:46 -Completed initialization in 1 ms
+2023-03-09 15:25:51 -HV000001: Hibernate Validator 6.2.5.Final
+2023-03-09 15:25:51 -Starting ServiceApplication using Java 17.0.2 on YLMBP.local with PID 83052 (/Users/ly/IdeaProjects/im-system/im-service/target/classes started by ly in /Users/ly/IdeaProjects/im-system)
+2023-03-09 15:25:51 -The following 1 profile is active: "dev"
+2023-03-09 15:25:52 -Tomcat initialized with port(s): 8000 (http)
+2023-03-09 15:25:52 -Initializing ProtocolHandler ["http-nio-8000"]
+2023-03-09 15:25:52 -Starting service [Tomcat]
+2023-03-09 15:25:52 -Starting Servlet engine: [Apache Tomcat/9.0.71]
+2023-03-09 15:25:52 -Initializing Spring embedded WebApplicationContext
+2023-03-09 15:25:52 -Root WebApplicationContext: initialization completed in 587 ms
+2023-03-09 15:25:52 -Starting ProtocolHandler ["http-nio-8000"]
+2023-03-09 15:25:52 -Tomcat started on port(s): 8000 (http) with context path ''
+2023-03-09 15:25:52 -Started ServiceApplication in 1.174 seconds (JVM running for 1.393)
+2023-03-09 15:26:00 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-03-09 15:26:00 -Initializing Servlet 'dispatcherServlet'
+2023-03-09 15:26:00 -Completed initialization in 1 ms
+2023-03-09 15:42:55 -HV000001: Hibernate Validator 6.2.5.Final
+2023-03-09 15:42:55 -Starting ServiceApplication using Java 17.0.2 on YLMBP.local with PID 87310 (/Users/ly/IdeaProjects/im-system/im-service/target/classes started by ly in /Users/ly/IdeaProjects/im-system)
+2023-03-09 15:42:55 -The following 1 profile is active: "dev"
+2023-03-09 15:42:56 -Tomcat initialized with port(s): 8000 (http)
+2023-03-09 15:42:56 -Initializing ProtocolHandler ["http-nio-8000"]
+2023-03-09 15:42:56 -Starting service [Tomcat]
+2023-03-09 15:42:56 -Starting Servlet engine: [Apache Tomcat/9.0.71]
+2023-03-09 15:42:56 -Initializing Spring embedded WebApplicationContext
+2023-03-09 15:42:56 -Root WebApplicationContext: initialization completed in 611 ms
+2023-03-09 15:42:56 -Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'imUserController': Unsatisfied dependency expressed through field 'routeHandle'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'routeHandle' defined in class path resource [com/lld/im/service/config/BeanConfig.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.lld.im.common.route.RouteHandle]: Factory method 'routeHandle' threw exception; nested exception is java.lang.NullPointerException: Cannot invoke "java.lang.Integer.intValue()" because "consistentHashWay" is null
+2023-03-09 15:42:56 -Stopping service [Tomcat]
+2023-03-09 15:42:56 -
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2023-03-09 15:42:56 -Application run failed
+org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'imUserController': Unsatisfied dependency expressed through field 'routeHandle'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'routeHandle' defined in class path resource [com/lld/im/service/config/BeanConfig.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.lld.im.common.route.RouteHandle]: Factory method 'routeHandle' threw exception; nested exception is java.lang.NullPointerException: Cannot invoke "java.lang.Integer.intValue()" because "consistentHashWay" is null
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:660)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:640)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:119)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:399)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1431)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:619)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:542)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:955)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:918)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:147)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:731)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:408)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:307)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1303)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1292)
+	at com.lld.im.service.ServiceApplication.main(ServiceApplication.java:10)
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'routeHandle' defined in class path resource [com/lld/im/service/config/BeanConfig.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.lld.im.common.route.RouteHandle]: Factory method 'routeHandle' threw exception; nested exception is java.lang.NullPointerException: Cannot invoke "java.lang.Integer.intValue()" because "consistentHashWay" is null
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:658)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:486)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1352)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1195)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:582)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:542)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:276)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1391)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1311)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:657)
+	... 20 common frames omitted
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.lld.im.common.route.RouteHandle]: Factory method 'routeHandle' threw exception; nested exception is java.lang.NullPointerException: Cannot invoke "java.lang.Integer.intValue()" because "consistentHashWay" is null
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:185)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:653)
+	... 33 common frames omitted
+Caused by: java.lang.NullPointerException: Cannot invoke "java.lang.Integer.intValue()" because "consistentHashWay" is null
+	at com.lld.im.service.config.BeanConfig.routeHandle(BeanConfig.java:47)
+	at com.lld.im.service.config.BeanConfig$$EnhancerBySpringCGLIB$$d7ff5128.CGLIB$routeHandle$1(<generated>)
+	at com.lld.im.service.config.BeanConfig$$EnhancerBySpringCGLIB$$d7ff5128$$FastClassBySpringCGLIB$$f8657b7c.invoke(<generated>)
+	at org.springframework.cglib.proxy.MethodProxy.invokeSuper(MethodProxy.java:244)
+	at org.springframework.context.annotation.ConfigurationClassEnhancer$BeanMethodInterceptor.intercept(ConfigurationClassEnhancer.java:331)
+	at com.lld.im.service.config.BeanConfig$$EnhancerBySpringCGLIB$$d7ff5128.routeHandle(<generated>)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:154)
+	... 34 common frames omitted
+2023-03-09 15:44:41 -HV000001: Hibernate Validator 6.2.5.Final
+2023-03-09 15:44:41 -Starting ServiceApplication using Java 17.0.2 on YLMBP.local with PID 87762 (/Users/ly/IdeaProjects/im-system/im-service/target/classes started by ly in /Users/ly/IdeaProjects/im-system)
+2023-03-09 15:44:41 -The following 1 profile is active: "dev"
+2023-03-09 15:44:41 -Tomcat initialized with port(s): 8000 (http)
+2023-03-09 15:44:41 -Initializing ProtocolHandler ["http-nio-8000"]
+2023-03-09 15:44:41 -Starting service [Tomcat]
+2023-03-09 15:44:41 -Starting Servlet engine: [Apache Tomcat/9.0.71]
+2023-03-09 15:44:41 -Initializing Spring embedded WebApplicationContext
+2023-03-09 15:44:41 -Root WebApplicationContext: initialization completed in 539 ms
+2023-03-09 15:44:41 -Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'imUserController': Unsatisfied dependency expressed through field 'routeHandle'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'routeHandle' defined in class path resource [com/lld/im/service/config/BeanConfig.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.lld.im.common.route.RouteHandle]: Factory method 'routeHandle' threw exception; nested exception is java.lang.NullPointerException: Cannot invoke "java.lang.Integer.intValue()" because "consistentHashWay" is null
+2023-03-09 15:44:41 -Stopping service [Tomcat]
+2023-03-09 15:44:41 -
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2023-03-09 15:44:41 -Application run failed
+org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'imUserController': Unsatisfied dependency expressed through field 'routeHandle'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'routeHandle' defined in class path resource [com/lld/im/service/config/BeanConfig.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.lld.im.common.route.RouteHandle]: Factory method 'routeHandle' threw exception; nested exception is java.lang.NullPointerException: Cannot invoke "java.lang.Integer.intValue()" because "consistentHashWay" is null
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:660)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:640)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:119)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:399)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1431)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:619)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:542)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:955)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:918)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:147)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:731)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:408)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:307)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1303)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1292)
+	at com.lld.im.service.ServiceApplication.main(ServiceApplication.java:10)
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'routeHandle' defined in class path resource [com/lld/im/service/config/BeanConfig.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.lld.im.common.route.RouteHandle]: Factory method 'routeHandle' threw exception; nested exception is java.lang.NullPointerException: Cannot invoke "java.lang.Integer.intValue()" because "consistentHashWay" is null
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:658)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:486)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1352)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1195)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:582)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:542)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:276)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1391)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1311)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:657)
+	... 20 common frames omitted
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.lld.im.common.route.RouteHandle]: Factory method 'routeHandle' threw exception; nested exception is java.lang.NullPointerException: Cannot invoke "java.lang.Integer.intValue()" because "consistentHashWay" is null
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:185)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:653)
+	... 33 common frames omitted
+Caused by: java.lang.NullPointerException: Cannot invoke "java.lang.Integer.intValue()" because "consistentHashWay" is null
+	at com.lld.im.service.config.BeanConfig.routeHandle(BeanConfig.java:44)
+	at com.lld.im.service.config.BeanConfig$$EnhancerBySpringCGLIB$$d7ff5128.CGLIB$routeHandle$1(<generated>)
+	at com.lld.im.service.config.BeanConfig$$EnhancerBySpringCGLIB$$d7ff5128$$FastClassBySpringCGLIB$$f8657b7c.invoke(<generated>)
+	at org.springframework.cglib.proxy.MethodProxy.invokeSuper(MethodProxy.java:244)
+	at org.springframework.context.annotation.ConfigurationClassEnhancer$BeanMethodInterceptor.intercept(ConfigurationClassEnhancer.java:331)
+	at com.lld.im.service.config.BeanConfig$$EnhancerBySpringCGLIB$$d7ff5128.routeHandle(<generated>)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:154)
+	... 34 common frames omitted
+2023-03-09 15:45:26 -HV000001: Hibernate Validator 6.2.5.Final
+2023-03-09 15:45:26 -Starting ServiceApplication using Java 17.0.2 on YLMBP.local with PID 87958 (/Users/ly/IdeaProjects/im-system/im-service/target/classes started by ly in /Users/ly/IdeaProjects/im-system)
+2023-03-09 15:45:26 -The following 1 profile is active: "dev"
+2023-03-09 15:45:26 -Tomcat initialized with port(s): 8000 (http)
+2023-03-09 15:45:26 -Initializing ProtocolHandler ["http-nio-8000"]
+2023-03-09 15:45:26 -Starting service [Tomcat]
+2023-03-09 15:45:26 -Starting Servlet engine: [Apache Tomcat/9.0.71]
+2023-03-09 15:45:26 -Initializing Spring embedded WebApplicationContext
+2023-03-09 15:45:26 -Root WebApplicationContext: initialization completed in 573 ms
+2023-03-09 15:45:26 -Starting ProtocolHandler ["http-nio-8000"]
+2023-03-09 15:45:26 -Tomcat started on port(s): 8000 (http) with context path ''
+2023-03-09 15:45:26 -Started ServiceApplication in 1.157 seconds (JVM running for 1.385)
+2023-03-09 15:45:31 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-03-09 15:45:31 -Initializing Servlet 'dispatcherServlet'
+2023-03-09 15:45:31 -Completed initialization in 1 ms
